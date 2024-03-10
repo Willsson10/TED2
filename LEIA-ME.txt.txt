@@ -1,0 +1,2 @@
+Os arquivos estão separados em pastas, para facilitar o entendimento do código.
+Mas no projeto final, ficam todos na mesma pasta "src", incluindo o makefile.
